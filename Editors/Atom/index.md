@@ -18,4 +18,11 @@ this is that Atom has some memory-leak problems when opening files which
 lines surpasses a 1024 characters limit, this memory-leak will end up
 freezing the editor, and possibly your OS.
 
+
+Last update
+-----------
+index: 30/09/2016
+config.cson: 30/09/2016
+packages-list: 30/09/2016
+
 [packages-list]: https://github.com/letops/FacturaBot/blob/master/Editors/Atom/packages-list.txt
