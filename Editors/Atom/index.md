@@ -25,4 +25,4 @@ index: 30/09/2016
 config.cson: 30/09/2016
 packages-list: 30/09/2016
 
-[packages-list]: https://github.com/letops/FacturaBot/blob/master/Editors/Atom/packages-list.txt
+[packages-list]: https://github.com/grvty-labs/FacturaBot/blob/master/Editors/Atom/packages-list.txt
